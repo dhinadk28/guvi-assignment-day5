@@ -23,4 +23,4 @@ var palind=function(a){
     return ans;
  
 }
-console.log(palind([1,11,343,200,798,80108,8008,999,7171,700007]))
+console.log(palind([1,44,565,411,576,626,1000,4884,999,499,505,303]))
